@@ -7,4 +7,4 @@ test_contacts:
     num: "15555555555"
   test_contacts_03:
     name: "fanying"
-    age: "13333333333"
+    num: "13333333333"
